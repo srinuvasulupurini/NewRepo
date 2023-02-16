@@ -1,0 +1,14 @@
+<<<<<<< HEAD
+class hello #from dev2
+{
+	public static void main() #from dev2
+=======
+class hello  # from dev1
+{
+	public static void main() #from dev1
+>>>>>>> 3bf4b435910ddb2cb701757d22c7bd5aa4ad3184
+	{
+		system.out.println("modified again by Dev1"); #frpm dev1
+	}
+} #from dev2
+

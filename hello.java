@@ -1,8 +1,8 @@
-class hello #from dev2
+class hello
 {
-	public static void main() #from dev2
+	public static void main()
 	{
-		system.out.println("modified again by Dev1");
+		system.out.println("modified again by Dev1"); #frpm dev1
 	}
 } #from dev2
 
